@@ -7,6 +7,7 @@ auths.estat.com
 mesure.streaming.estat.com
 imasdk.googleapis.com
 beacons.gvt2.com
+beacons.gcp.gvt2.com
 beacons5.gvt3.com
 metrics.icloud.com
 settings-win.data.microsoft.com
@@ -19,5 +20,6 @@ logs1406.xiti.com
 logs4.xiti.com
 cdn-a.yieldlove.com
 adservice.google.fr
+dd.leboncoin.fr
 eum-blue-saas.instana.io
 content.analytics.arxiv.org
