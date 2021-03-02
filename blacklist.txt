@@ -1,14 +1,11 @@
 # Pi-hole extra list
 # License: GPLv3
 
-notify.bugsnag.com
 auths.estat.com
 mesure.streaming.estat.com
 imasdk.googleapis.com
-gnar.grammarly.com
 beacons.gvt2.com
 beacons5.gvt3.com
-nexusrules.officeapps.live.com
 boot.pbstck.com
 cdn.pbstck.com
 0ddea-6d3f9.api.pushwoosh.com
