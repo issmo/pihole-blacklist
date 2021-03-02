@@ -1,11 +1,15 @@
 # Pi-hole extra list
 # License: GPLv3
 
+consentcdn.cookiebot.com
 auths.estat.com
 mesure.streaming.estat.com
 imasdk.googleapis.com
 beacons.gvt2.com
 beacons5.gvt3.com
+metrics.icloud.com
+settings-win.data.microsoft.com
+customerevents.netflix.com
 boot.pbstck.com
 cdn.pbstck.com
 0ddea-6d3f9.api.pushwoosh.com
