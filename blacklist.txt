@@ -1,6 +1,7 @@
 # Pi-hole extra list
 # License: GPLv3
 
+sslgen-leboncoin.datadome.co
 consentcdn.cookiebot.com
 auths.estat.com
 mesure.streaming.estat.com
@@ -19,3 +20,4 @@ logs4.xiti.com
 cdn-a.yieldlove.com
 adservice.google.fr
 eum-blue-saas.instana.io
+content.analytics.arxiv.org
