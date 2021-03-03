@@ -2,11 +2,17 @@
 # License: GPLv3
 
 sslgen-leboncoin.datadome.co
+cdn.blaick.com
 consentcdn.cookiebot.com
 auths.estat.com
 mesure.streaming.estat.com
 imasdk.googleapis.com
 beacons.gvt2.com
+beacons1.gvt2.com
+beacons2.gvt2.com
+beacons3.gvt2.com
+beacons4.gvt2.com
+beacons5.gvt2.com
 beacons.gcp.gvt2.com
 beacons5.gvt3.com
 metrics.icloud.com
@@ -19,6 +25,7 @@ prismamedia-com.videoplayerhub.com
 logs1406.xiti.com
 logs4.xiti.com
 cdn-a.yieldlove.com
+cdn.galaxiemedia.fr
 adservice.google.fr
 dd.leboncoin.fr
 eum-blue-saas.instana.io
