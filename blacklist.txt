@@ -1,6 +1,7 @@
 # Pi-hole extra list
 # License: GPLv3
 
+cdn.shortpixel.ai
 sslgen-leboncoin.datadome.co
 cdn.blaick.com
 consentcdn.cookiebot.com
