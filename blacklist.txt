@@ -22,7 +22,9 @@ customerevents.netflix.com
 boot.pbstck.com
 cdn.pbstck.com
 0ddea-6d3f9.api.pushwoosh.com
+js.sddan.com
 prismamedia-com.videoplayerhub.com
+logs1136.xiti.com
 logs1406.xiti.com
 logs4.xiti.com
 cdn-a.yieldlove.com
